@@ -70,17 +70,17 @@ function iconSvg(kind, size = 14) {
 // State
 // =====================
 const state = {
-  fullName: "Alex Morgan",
-  jobTitle: "Product Designer",
-  company: "Northstar Labs",
+  fullName: "Imamul Kadir",
+  jobTitle: "Automation Specialist",
+  company: "P'Pets Labs",
   phone: "+1 (555) 012-3456",
-  email: "alex@northstar.com",
+  email: "ppets@lab.com",
   address: "123 Market St, San Francisco, CA",
-  website: "northstar.com",
+  website: "PPets",
   fontFamily: "sans",
   fontWeight: "600",
   accent: PALETTE[0].hex,
-  templateId: "t01",
+  templateId: "t03",
   overlays: { bleed: true, trim: true, safe: true },
   logo: null, // { kind: 'svg'|'png', dataUrl, svgText? }
 };
